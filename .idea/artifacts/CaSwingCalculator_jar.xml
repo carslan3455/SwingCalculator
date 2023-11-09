@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CaSwingCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CaSwingCalculator_jar</output-path>
+    <root id="archive" name="CaSwingCalculator.jar">
+      <element id="module-output" name="CaSwingCalculator" />
+    </root>
+  </artifact>
+</component>
